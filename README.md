@@ -1,55 +1,73 @@
 
 
-# 📝 Registration Form (HTML & CSS)
+# 🌐 Web Development Learning
 
-A clean and responsive **Registration Form** built using pure **HTML** and **CSS**.
-Perfect for beginners learning form structure, input fields, and basic styling.
-
----
-
-## 🔥 Features
-
-* Simple & clean UI
-* Fully responsive layout
-* Uses only HTML and CSS (no JS drama)
-* Beginner-friendly code
-* Easy to customize
+This repository contains my **web development learning journey**.
+I’m learning and practicing core web technologies step by step by creating small projects and files.
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 What I’m Learning
 
-* **HTML5** – structure of the form
-* **CSS3** – styling and layout
+* **HTML** – page structure & semantic tags
+* **CSS** – styling, layouts, responsive design
+* **JavaScript** – basics, DOM, logic (coming soon)
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Structure
 
 ```
-registration-form/
+web-development/
 │
-├── index.html
-├── style.css
+├── HTML/
+├── CSS/
+├── Projects/
 └── README.md
 ```
 
 ---
 
-## 🎯 Form Fields Included
+## 🎯 Purpose of This Repo
 
-* Full Name
-* Email Address
-* Password
-* Gender selection
-* Submit button
-
-
-## 💡 Future Improvements
-
-* Add JavaScript validation
-* Connect with backend (PHP / Node.js)
-* Improve UI with animations
+* Track my daily learning
+* Practice concepts with real files
+* Build a strong web development foundation
 
 ---
+
+## 🛠️ Tools Used
+
+* VS Code
+* Web Browser (Chrome / Edge)
+
+---
+
+## 📈 Progress
+
+* ✅ HTML Basics
+* ✅ CSS Basics
+* ⏳ Responsive Design
+* ⏳ JavaScript
+
+---
+
+## 💡 Future Plans
+
+* Build real-world projects
+* Add JavaScript-based forms
+* Learn frameworks (React, Bootstrap)
+
+---
+
+## 📌 Note
+
+This repository is made for **learning and practice**.
+Suggestions and improvements are always welcome.
+
+---
+
+## 📄 License
+
+Free to use for learning and practice.
 
